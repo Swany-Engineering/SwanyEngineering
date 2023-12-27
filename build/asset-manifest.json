@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3733e5ff.css",
+    "main.js": "/static/js/main.6f52a716.js",
+    "static/js/787.917857b7.chunk.js": "/static/js/787.917857b7.chunk.js",
+    "static/media/projectbg.jpg": "/static/media/projectbg.c2ec3c860c648cba6084.jpg",
+    "static/media/servicesbg.jpg": "/static/media/servicesbg.0700a5f2ddb0fd410019.jpg",
+    "static/media/miles-burke-idhx.jpg": "/static/media/miles-burke-idhx.c40976ef954e7af468ba.jpg",
+    "static/media/contactbg.jpg": "/static/media/contactbg.817af10c999e398e696a.jpg",
+    "static/media/aboutbg.jpg": "/static/media/aboutbg.90d62ef600e79cbf646a.jpg",
+    "static/media/verne-ho-0LAJfSNa-xQ.jpg": "/static/media/verne-ho-0LAJfSNa-xQ.c07884a1c126e240d87f.jpg",
+    "static/media/copernico-p_kICQCOM4s-unsplash.jpg": "/static/media/copernico-p_kICQCOM4s-unsplash.9435bb9eea868b24ef0f.jpg",
+    "static/media/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg": "/static/media/nastuh-abootalebi-eHD8Y1Znfpk-unsplash.5fa40144ad0ed4e1edea.jpg",
+    "static/media/nastuh-abootalebi-ZtC4_rPCRXA.jpg": "/static/media/nastuh-abootalebi-ZtC4_rPCRXA.47fb6440783e50fa5bbf.jpg",
+    "static/media/about.png": "/static/media/about.afd37d9952fafdae0a4b.png",
+    "static/media/contact.jpg": "/static/media/contact.e55d3b195bbb73a4f25f.jpg",
+    "static/media/choose.jpg": "/static/media/choose.f2d4e4094f7b8009bf81.jpg",
+    "static/media/meeting.jpg": "/static/media/meeting.88b44e9ef1df29b90e9f.jpg",
+    "static/media/services.jpg": "/static/media/services.86832faaba80bab9548e.jpg",
+    "index.html": "/index.html",
+    "main.3733e5ff.css.map": "/static/css/main.3733e5ff.css.map",
+    "main.6f52a716.js.map": "/static/js/main.6f52a716.js.map",
+    "787.917857b7.chunk.js.map": "/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3733e5ff.css",
+    "static/js/main.6f52a716.js"
+  ]
+}
